@@ -6,7 +6,7 @@ const LandingPage = () => {
   return (
     <div className="landing-container">
       <header className="header">
-        <h1>Department of Posts</h1>
+        <h1>SEVADOST</h1>
         <nav>
           <Link to="/404">Home</Link>
           <Link to="/404">About</Link>
